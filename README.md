@@ -5,6 +5,14 @@
 <h3 align="left">👨‍💻 About Me</h3>
 <p> I'm Frontend Developer From Bangladesh.</p>
 
+<h3 align="left">📌 Current Activities</h3>
+<ul>
+  <li>🌐 Exploring advanced features of Next.js.</li>
+  <li>🛫 Developing a dynamic tourism website.</li>
+  <li>📖 Studying best practices for responsive web design.</li>
+  <li>💻 Building reusable components for frontend projects.</li>
+</ul>
+
 <p align="left">
   - 🔭 I specialize in building Frontend web applications using MongoDB, Express.js, React.js, and Node.js.<br>
   - 📚 I'm currently learning advanced backend architecture and optimizing performance for large-scale applications.<br>
