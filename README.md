@@ -1,4 +1,5 @@
 ![logo](https://res.cloudinary.com/dvubt5hiv/image/upload/v1730266019/xdbfzqxmvr2uoozvqrza.jpg)
+<p align="center"><img src="https://git-profile-readme-banner.vercel.app/api/python?username=Takmim00"></p>
 <h1 align="left">Hi 👋, I'm A S M Maghferat Takmim</h1>
 <h3 align="left">I'm Frontend Developer</h3>
 
