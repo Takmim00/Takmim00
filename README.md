@@ -3,7 +3,7 @@
 <h3 align="left">I'm Frontend Developer</h3>
 
 <h3 align="left">👨‍💻 About Me</h3>
-<p> I'm Frontend Developer From Bangladesh.</p>
+<p>Hello I'm Frontend Developer From Bangladesh. I Make a beautiful Frontend Web application.</p>
 
 <h3 align="left">📌 Current Activities</h3>
 <ul>
