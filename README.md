@@ -75,7 +75,7 @@
 
 
 <p align="">
-  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohammedrasif&show_icons=true&locale=en&layout=compact&theme=dracula" alt="mohammedrasif" />
+  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=Takmim00&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Takmim00" />
 </p>
 
 <div align="">
@@ -84,9 +84,4 @@
 
 
 
-<h3 align="left">🔥 My Stats :</h3>
 
-<div align="center">
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=Takmim00&show_icons=true" height="220" alt="streak graph" />
-</div>
