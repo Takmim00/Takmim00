@@ -1,6 +1,15 @@
 ![logo](https://res.cloudinary.com/dvubt5hiv/image/upload/v1730266019/xdbfzqxmvr2uoozvqrza.jpg)
-<h1 align="center">Hi 👋, I'm Mohammed Rasif</h1>
-<h3 align="center">I'm Junior Web Developer</h3>
+<h1 align="left">Hi 👋, I'm A S M Maghferat Takmim</h1>
+<h3 align="left">I'm Frontend Developer</h3>
+
+<h3 align="left">👨‍💻 About Me</h3>
+<p> I'm Frontend Developer From Bangladesh.</p>
+
+<p align="left">
+  - 🔭 I specialize in building Frontend web applications using MongoDB, Express.js, React.js, and Node.js.<br>
+  - 📚 I'm currently learning advanced backend architecture and optimizing performance for large-scale applications.<br>
+  - ⚡ In my free time, I explore new web technologies, contribute to open-source projects, and refine my skills in API development.<br>
+</p>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
@@ -62,14 +71,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mohammedrasif&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
 </div>
 
-<h3 align="left">👨‍💻 About Me</h3>
 
-<p align="left">
-  I'm Md Rasif, a Web Developer and MERN Stack Developer from Chottogram, Bangladesh.<br><br>
-  - 🔭 I specialize in building full-stack web applications using MongoDB, Express.js, React.js, and Node.js.<br>
-  - 📚 I'm currently learning advanced backend architecture and optimizing performance for large-scale applications.<br>
-  - ⚡ In my free time, I explore new web technologies, contribute to open-source projects, and refine my skills in API development.<br>
-</p>
 
 <h3 align="left">🔥 My Stats :</h3>
 
