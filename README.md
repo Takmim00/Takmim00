@@ -14,9 +14,9 @@
 </ul>
 
 <p align="left">
-  - 🔭 I specialize in building Frontend web applications using MongoDB, Express.js, React.js, and Node.js.<br>
-  - 📚 I'm currently learning advanced backend architecture and optimizing performance for large-scale applications.<br>
-  - ⚡ In my free time, I explore new web technologies, contribute to open-source projects, and refine my skills in API development.<br>
+   🔭 I specialize in building Frontend web applications using MongoDB, Express.js, React.js, and Node.js.<br>
+   📚 I'm currently learning advanced backend architecture and optimizing performance for large-scale applications.<br>
+   ⚡ In my free time, I explore new web technologies, contribute to open-source projects, and refine my skills in API development.<br>
 </p>
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
