@@ -16,13 +16,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohammedrasif&label=Profile%20views&color=0e75b6&style=flat" alt="mohammedrasif" /> </p>
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/rasif_md9118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rasif_md9118" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mdrasif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdrasif" height="30" width="40" /></a>
-<a href="https://fb.com/md.rasif.315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md.rasif.315" height="30" width="40" /></a>
-<a href="https://instagram.com/md_rasif_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="md_rasif_" height="30" width="40" /></a>
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -60,6 +54,15 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
   </a>
 </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/rasif_md9118" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rasif_md9118" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mdrasif" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdrasif" height="30" width="40" /></a>
+<a href="https://fb.com/md.rasif.315" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md.rasif.315" height="30" width="40" /></a>
+<a href="https://instagram.com/md_rasif_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="md_rasif_" height="30" width="40" /></a>
+</p>
+
 
 
 
