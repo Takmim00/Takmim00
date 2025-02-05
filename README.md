@@ -62,9 +62,7 @@
 
 
 <h3 align="left">🔥 My Stats :</h3>
-<div align="">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Takmim00&theme=dark" alt="GitHub Streak" /></a>
-</div>
 
 
 <p align="">
@@ -73,7 +71,6 @@
 <div align="">
 <img src="https://github-readme-stats.vercel.app/api?username=Takmim00&theme=dark&show_icons=true" />
 </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Takmim00&theme=dark&show_icons=true)
 
 
 
