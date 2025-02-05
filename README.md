@@ -9,7 +9,7 @@
 
 <p align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Takmim00&theme=dark" alt="Takmim00" /></a>
 <p align="">
-  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=Takmim00&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Takmim00" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Takmim00&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Takmim00" />
 </p>
 
 
@@ -69,9 +69,6 @@
 
 
 
-
-###
-<h3 align="left">🔥 My Stats :</h3>
 
 
 
