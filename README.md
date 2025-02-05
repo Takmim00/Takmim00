@@ -73,6 +73,6 @@
 </div>
 
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Takmim00&theme=dark" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?username=Takmim00&theme=dark" alt="GitHub Streak" /></a>
 
 
