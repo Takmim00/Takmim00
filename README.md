@@ -3,7 +3,7 @@
 <h3 align="left">I'm Frontend Developer</h3>
 
 <h3 align="left">👨‍💻 About Me</h3>
-<p>Hello I'm Frontend Developer From Bangladesh. I Make a beautiful Frontend Web application.</p>
+<p>Hello I'm Frontend Developer From Bangladesh, specializing in building modern, responsive, and visually appealing web applications. With expertise in React, Next.js, and modern web technologies, I create seamless and interactive user experiences.</p>
 
 <h3 align="left">📌 Current Activities</h3>
 <ul>
