@@ -63,7 +63,7 @@
 
 <h3 align="left">🔥 My Stats :</h3>
 
-<p align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Takmim00&theme=dark" alt="Takmim00" /></a>
+<p href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Takmim00&theme=dark" alt="Takmim00" /></a>
 
 
 <div align="">
