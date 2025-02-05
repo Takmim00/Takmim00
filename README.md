@@ -10,7 +10,7 @@
 <p align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Takmim00&theme=dark" alt="Takmim00" /></a>
 
 
-
+---
 <h3 align="center">👨‍💻 About Me</h3>
 <p>Hello I'm Frontend Developer From Bangladesh, specializing in building modern, responsive, and visually appealing web applications. With expertise in React, Next.js, and modern web technologies, I create seamless and interactive user experiences.</p>
 
