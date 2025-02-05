@@ -63,11 +63,11 @@
 
 <h3 align="center">🔥 My Stats :</h3>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Takmim00&theme=dark" alt="GitHub Streak" /></a>
-<div align="">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Takmim00&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
 </div>
 
-<p align="">
+<p align="center">
   <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=Takmim00&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Takmim00" />
 </p>
 
