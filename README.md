@@ -1,5 +1,5 @@
 ![logo](https://res.cloudinary.com/dvubt5hiv/image/upload/v1730266019/xdbfzqxmvr2uoozvqrza.jpg)
-<h1 align="left">Hi 👋, I'm A S M Maghferat Takmim</h1>
+<h1 align="center">Hi 👋, I'm A S M Maghferat Takmim</h1>
 <h3 align="left">I'm Frontend Developer</h3>
 
 <h3 align="left">👨‍💻 About Me</h3>
