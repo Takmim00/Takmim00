@@ -3,7 +3,7 @@
 <h3 align="center">I'm Frontend Developer</h3>
 
 ---
-<div align="center" display="flex>
+<div align="center" display="flex">
 <img src="https://github-readme-stats.vercel.app/api?username=Takmim00&theme=dark&show_icons=true" />
   <p align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Takmim00&theme=dark" alt="Takmim00" />
   </p>
