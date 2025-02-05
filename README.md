@@ -2,6 +2,13 @@
 <h1 align="center">Hi 👋, I'm A S M Maghferat Takmim</h1>
 <h3 align="center">I'm Frontend Developer</h3>
 
+---
+<p align="center" href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Takmim00&theme=dark" alt="Takmim00" /></a>
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Takmim00&theme=dark&show_icons=true" />
+</div>
+
 <h3 align="left">👨‍💻 About Me</h3>
 <p>Hello I'm Frontend Developer From Bangladesh, specializing in building modern, responsive, and visually appealing web applications. With expertise in React, Next.js, and modern web technologies, I create seamless and interactive user experiences.</p>
 
@@ -63,12 +70,7 @@
 
 <h3 align="left">🔥 My Stats :</h3>
 
-<p href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Takmim00&theme=dark" alt="Takmim00" /></a>
 
-
-<div align="">
-<img src="https://github-readme-stats.vercel.app/api?username=Takmim00&theme=dark&show_icons=true" />
-</div>
 <p align="">
   <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=Takmim00&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Takmim00" />
 </p>
