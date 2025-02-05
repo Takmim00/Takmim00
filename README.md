@@ -21,7 +21,7 @@
 
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Takmim00&label=Profile%20views&color=0e75b6&style=flat" alt="Takmim00" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Takmim00&label=Profile%20views&color=0e75b6&style=flat" alt="Takmim00"/> </p>
 
 
 
@@ -63,7 +63,7 @@
 
 <h3 align="left">🔥 My Stats :</h3>
 
-<p href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Takmim00&theme=dark" alt="GitHub Streak" /></a>
+<p href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Takmim00&theme=dark" alt="Takmim00" /></a>
 
 <p align="">
   <img align="" src="https://github-readme-stats.vercel.app/api/top-langs?username=Takmim00&show_icons=true&locale=en&layout=compact&theme=dracula" alt="Takmim00" />
