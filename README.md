@@ -1,5 +1,5 @@
 ![logo](https://res.cloudinary.com/dvubt5hiv/image/upload/v1730266019/xdbfzqxmvr2uoozvqrza.jpg)
-<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=00FF88&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+A+S+M+Maghferat+Takmim;React+%7C+MERN+%7C+JavaScript+Developer;Building+fast,+responsive+%26+accessible+websites;Clean+code+%26+modern+UI" alt="Typing SVG" /> </p> <h1 align="center">A S M Maghferat Takmim</h1>
+<p align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+A+S+M+Maghferat+Takmim;React+%7C+MERN+%7C+JavaScript+Developer;Building+fast,+responsive+%26+accessible+websites;Clean+code+%26+modern+UI" alt="Typing SVG" /> </p>
 
 ---
 <div align="center">
